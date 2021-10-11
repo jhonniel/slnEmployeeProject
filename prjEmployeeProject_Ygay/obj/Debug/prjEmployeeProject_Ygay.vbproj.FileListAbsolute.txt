@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\bin\Debug\prjEmployeeProject_Ygay.exe.config
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\bin\Debug\prjEmployeeProject_Ygay.exe
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\bin\Debug\prjEmployeeProject_Ygay.pdb
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\bin\Debug\prjEmployeeProject_Ygay.xml
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.frmMain.resources
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.Resources.resources
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.exe
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.xml
+C:\Users\User\source\repos\slnEmployeeProject_Ygay\prjEmployeeProject_Ygay\obj\Debug\prjEmployeeProject_Ygay.pdb
